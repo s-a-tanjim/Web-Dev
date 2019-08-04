@@ -1,3 +1,8 @@
+<h2>About</h2><hr>
+This is a simple demo code for a user login system. Hope you will easily understand :)
+<h2>How To Run</h2>
+
+
 Step 1: Open XAMPP, Start Apache and MySql
 
 Step 2: Create Database Named "test" (This may already be exists)
