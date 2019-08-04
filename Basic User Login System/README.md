@@ -1,4 +1,4 @@
-<h2>About</h2><hr>
+<h2>About</h2>
 This is a simple demo code for a user login system. Hope you will easily understand :)
 <h2>How To Run</h2>
 
